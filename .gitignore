@@ -1,0 +1,8 @@
+.build
+*.swp
+*.*~
+*.mp3
+*.part
+*.mp*
+*.log
+
